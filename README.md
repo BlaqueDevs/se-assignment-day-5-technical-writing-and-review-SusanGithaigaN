@@ -87,7 +87,7 @@ examples:
 |--------------------------------|--------------------------------|
 | Terminate                      | Stop                           |
 | Configure                      | Set up                         |
-| Navigate                       | Set up                         |
+| Navigate                       | Go to                          |
 | Initialize                     | Start                          |
 
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
